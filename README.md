@@ -3,10 +3,10 @@
 ### Register Number: 212221240057
 
 ## Aim:
-To develop and evaluate the Q-learning algorithm's performance in navigating the environment and achieving the desired goal.
+To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
 
 ## Problem Statement:
-The goal of this project is to implement a Q-learning algorithm that enables an agent to learn optimal actions in a dynamic environment to maximize cumulative rewards.
+The goal of this project is to implement a Python program that uses Q-Learning to find the optimal policy in a dynamic RL environment. The program will also compare state values obtained from Q-Learning with those from the Monte Carlo method.
 
 ## Q-Learning Algorithm:
 ### Step 1:
